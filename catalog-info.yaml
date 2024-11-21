@@ -1,0 +1,18 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:./
+  description: Simple documentation.
+  name: simple-docs
+  title: Simple Docs
+spec:
+  dependsOn:
+    - component:default/simple-service
+  lifecycle: production
+  owner: a-testing-dlt
+  serviceOwners:
+    - user:default/basic-user
+  system: techdocs-system
+  type: docs

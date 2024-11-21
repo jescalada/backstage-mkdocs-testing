@@ -9,4 +9,4 @@ This is simple documentation hosted in Backstage with TechDocs.
 
 ### Absolute path
 
-<iframe markdown="1" src="https://github.com/jescalada/backstage-mkdocs-testing/blob/main/docs/emails/examples/html_template.html" height="600" width="100%"></iframe>
+<iframe markdown="1" src="https://raw.githubusercontent.com/jescalada/backstage-mkdocs-testing/refs/heads/main/docs/emails/examples/html_template.html" height="600" width="100%"></iframe>

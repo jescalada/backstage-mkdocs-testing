@@ -9,3 +9,5 @@ plugins:
   - techdocs-core
 markdown_extensions:
   - md_in_html
+extra_templates:
+  - emails/examples/html_template.html

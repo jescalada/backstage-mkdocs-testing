@@ -13,6 +13,6 @@ Testing iframes with a relative path:  `./emails/examples/html_template.html`
 
 ### Absolute path
 
-Testing iframe with an absolute path: `https://jescalada.github.io/backstage-mkdocs-testing/emails/examples/html_template.html
+Testing iframe with an absolute path: `https://jescalada.github.io/backstage-mkdocs-testing/emails/examples/html_template.html`
 
 <iframe markdown="1" src="https://jescalada.github.io/backstage-mkdocs-testing/emails/examples/html_template.html" height="600" width="100%"></iframe>
